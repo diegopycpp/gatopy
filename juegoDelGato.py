@@ -10,7 +10,7 @@ def imprimeTablero():
         print('')
     print('')
 def primerLanzamiento():
-    jugadorUno=input('J1 -> Escoje x/o: ')
+    jugadorUno=input('J1 -> Escoje X/O: ')
     if jugadorUno=='x':
         print('Elejiste: x')
         return True
